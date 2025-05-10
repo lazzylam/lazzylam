@@ -9,8 +9,8 @@
 </div>
 <br>
 
-```zsh
 > neofetch
+```
 
 <img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
 
@@ -23,9 +23,9 @@ Gender: Male.
 Location: Jakarta, Indonesia.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
-Languages: CPlusPlus, CSharp, CSS, HTML, JavaScript, Python, Go.
-Learning: Computer Science.
-Telegram: @Lampurge.
+Languages: HTML, Python, Go.
+Learning: Business
+Telegram: @ampud.
 ```
 <br>
      
