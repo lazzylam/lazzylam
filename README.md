@@ -126,3 +126,5 @@ My programming languages include Python, Go. Check out my repositories and Share
  ──「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 」──
 </h2>
 <a href="https://telegram.me/ampud"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+![snake animation](https://github.com/lazzylam/lazzylam/blob/output/github-contribution-grid-snake.svg)
