@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I'm+Lampurge" />
-</h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+Lampurge'></h1>
 
 <body>
 <br>
@@ -9,6 +7,7 @@
 </div>
 <br>
 
+```zsh
 > neofetch
 ```
 
@@ -34,8 +33,8 @@ Telegram: @ampud.
 </div>
 <div align = "center">
 <p align = "justify"><b>
-I am a self-taught developer from Indonesia who loves working with Python, Go, CSS, JavaScript and HTML. A year ago, I learned Python, HTML and CSS, along with some reverse engineering to develop apps and Telegram bots. Nowadays, I focus on Computer Science, striving to do my best in every specialization area.
-My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CSS, HTML, Shell Script, and PowerShell Script. Check out my repositories and Share your feedback ~ I’ll do my best to improve every day!
+I am a self-taught developer from Indonesia who loves working with Python, Go, and HTML. A year ago, I learned Python, HTML and CSS, along with some reverse engineering to develop apps and Telegram bots. Nowadays, I focus on Computer Science, striving to do my best in every specialization area.
+My programming languages include Python, Go. Check out my repositories and Share your feedback ~ I’ll do my best to improve every day!
 </b>
 <br>
 </p>
@@ -44,17 +43,8 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 <h3 align="left">Languages</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a> 
-<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/> </a> 
-<a href="https://isocpp.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/> </a>
-<a href="https://www.css3.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/> </a> 
 <a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> </a>
-<a href="https://github.com/KSKOP69" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/> </a>
 <a href="https://go.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="GO" width="60" height="60"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="60" height="60"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/> </a>
-</p>
-
 
 <h3 align="left">Databases</h3>
 <p align="left"> 
@@ -89,7 +79,7 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 <div> 
 <a href="https://github.com/chalondraa"><img alt="chalondraa Github Stats" src="https://github-readme-stats.vercel.app/api/?username=chalondraa&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
 <a href="https://github.com/chalondraa"><img alt="chalondraa Contribution" src="https://github-contributor-stats.vercel.app/api?username=chalondraa&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" width="49%"/></a>
-<a href="https://github.com/chalondraa"><img alt="chalondraa GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=chalondraa&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" width="49%"/></a>
+<a href="https://github.com/itsmearion"><img alt="chalondraa GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=chalondraa&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" width="49%"/></a>
 <a href="https://github.com/chalondraa"><img alt="chalondraa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalondraa&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
 <a href="https://github.com/chalondraa"><img alt="chalondraa Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chalondraa&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </div>
@@ -135,4 +125,4 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 
  ──「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 」──
 </h2>
-<a href="https://telegram.me/itschalondra"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ampud"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
