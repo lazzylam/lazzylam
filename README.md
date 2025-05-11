@@ -99,9 +99,9 @@ My programming languages include Python, Go. Check out my repositories and Share
 </div>  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazzylam/lazzylam/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazzylam/lazzylam/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lazzylam/lazzylam/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lazzylam/lazzylam/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lazzylam/lazzylam/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/lazzylam/lazzylam/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br>
