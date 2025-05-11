@@ -33,7 +33,7 @@ Telegram: @pbenak.
 </div>
 <div align = "center">
 <p align = "justify"><b>
-I am a self-taught developer from Indonesia who loves working with Python, Go, and HTML. A year ago, I learned Python, HTML and CSS, along with some reverse engineering to develop apps and Telegram bots. Nowadays, I focus on Computer Science, striving to do my best in every specialization area.
+I am a self-taught developer from Indonesia who loves working with Python, Go, and HTML. A year ago, I learned Python,HTML,and Go. along with some reverse engineering to develop apps and Telegram bots. Nowadays, I focus on Computer Science, striving to do my best in every specialization area.
 My programming languages include Python, Go. Check out my repositories and Share your feedback ~ I’ll do my best to improve every day!
 </b>
 <br>
@@ -50,7 +50,6 @@ My programming languages include Python, Go. Check out my repositories and Share
 <p align="left"> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>
 
 </p>
@@ -68,7 +67,6 @@ My programming languages include Python, Go. Check out my repositories and Share
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> </a>
 <a href="https://m.do.co/c/698f2a298346" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="60" height="60"/></a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a>      
-<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
 <a href="https://www.oracle.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/></a>
 <a href="https://ubuntu.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/ubuntu--v1.png" alt="ubuntu" width="60" height="60"/> </a> 
 </p>
