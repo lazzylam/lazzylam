@@ -11,7 +11,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/lazzylam/lazzylam/main/pic/lazzylam.webp" width="130px"/>
+<img align="left" src="https://raw.githubusercontent.com/lazzylam/lazzylam/main/pic/lazzylam.webp" width="150px"/>
 
 ```csharp
 My Profile
