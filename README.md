@@ -98,6 +98,11 @@ My programming languages include Python, Go. Check out my repositories and Share
 <br> 
 </div>  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazzylam/lazzylam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazzylam/lazzylam/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lazzylam/lazzylam/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br>
 <div>
@@ -126,5 +131,3 @@ My programming languages include Python, Go. Check out my repositories and Share
  ──「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 」──
 </h2>
 <a href="https://telegram.me/ampud"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-<img src="https://raw.githubusercontent.com/lazzylam/lazzylam/output/github-contribution-grid-snake.svg" alt="snake animation" />
