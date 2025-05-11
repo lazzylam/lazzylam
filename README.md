@@ -24,7 +24,7 @@ Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
 Languages: HTML, Python, Go.
 Learning: Business
-Telegram: @mwodal.
+Telegram: @mowdal.
 ```
 <br>
      
@@ -113,7 +113,7 @@ My programming languages include Python, Go. Check out my repositories and Share
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> A Random Developer Quote</h2></summary>
   <div align="center">
-    <a href="https://github.com/chalondraa/chalondraa">
+    <a href="https://github.com/lazzylam/lazzylam">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Readme Quotes">
     </a>
   </div>
@@ -128,4 +128,4 @@ My programming languages include Python, Go. Check out my repositories and Share
 
  ──「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 」──
 </h2>
-<a href="https://telegram.me/mwodal"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/mowdal"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
