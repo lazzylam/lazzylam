@@ -83,12 +83,6 @@ My programming languages include Python, Go. Check out my repositories and Share
 </div>
 <br>
 
-<h2 align = "center"> 🏆 GitHub Trophies ✨ </h2>
-<div>
-<a herf="https://github.com/KSKOP69/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KSKOP69&margin-w=15&margin-h=10&row=3&column=8&count_private=true&include_all_commits=true&theme=dracula" alt="Trophies" width="150%"/></a><br>
-</div>
-<br>
-
 <h2 align="center">Thank you for reading 😶‍🌫️</h2>
 <div>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpiYnk0eGtyOWN6Nzc3eWJrb3lta3kzNHNrN2d0YWxuMjUyYm1xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12DrHDhr5dTjgs/giphy.gif" width="500px" />
