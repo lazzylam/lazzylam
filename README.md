@@ -24,7 +24,7 @@ Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
 Languages: HTML, Python, Go.
 Learning: Business
-Telegram: @pbenak.
+Telegram: @mwodal.
 ```
 <br>
      
@@ -128,4 +128,4 @@ My programming languages include Python, Go. Check out my repositories and Share
 
  ──「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 」──
 </h2>
-<a href="https://telegram.me/pbenak"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/mwodal"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
