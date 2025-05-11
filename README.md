@@ -24,7 +24,7 @@ Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
 Languages: HTML, Python, Go.
 Learning: Business
-Telegram: @ampud.
+Telegram: @pbenak.
 ```
 <br>
      
@@ -77,11 +77,11 @@ My programming languages include Python, Go. Check out my repositories and Share
 
 <h2 align = "center"> 📉 GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="40" height="40" /></h2>
 <div> 
-<a href="https://github.com/chalondraa"><img alt="chalondraa Github Stats" src="https://github-readme-stats.vercel.app/api/?username=chalondraa&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
-<a href="https://github.com/chalondraa"><img alt="chalondraa Contribution" src="https://github-contributor-stats.vercel.app/api?username=chalondraa&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" width="49%"/></a>
-<a href="https://github.com/itsmearion"><img alt="chalondraa GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=chalondraa&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" width="49%"/></a>
-<a href="https://github.com/chalondraa"><img alt="chalondraa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalondraa&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
-<a href="https://github.com/chalondraa"><img alt="chalondraa Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chalondraa&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
+<a href="https://github.com/lazzylam"><img alt="Lampurge Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lazzylam&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
+<a href="https://github.com/lazzylam"><img alt="Lampurge Contribution" src="https://github-contributor-stats.vercel.app/api?username=lazzylam&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" width="49%"/></a>
+<a href="https://github.com/lazzylam"><img alt="Lampurge GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=lazzylam&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" width="49%"/></a>
+<a href="https://github.com/lazzylam"><img alt="Lampurge Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazzylam&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
+<a href="https://github.com/lazzylam"><img alt="Lampurge Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lazzylam&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </div>
 <br>
 
@@ -91,7 +91,7 @@ My programming languages include Python, Go. Check out my repositories and Share
 </div>
 <br>
 
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<h2 align="center">Thank you for reading 😶‍🌫️</h2>
 <div>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpiYnk0eGtyOWN6Nzc3eWJrb3lta3kzNHNrN2d0YWxuMjUyYm1xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12DrHDhr5dTjgs/giphy.gif" width="500px" />
   </div>
@@ -130,4 +130,4 @@ My programming languages include Python, Go. Check out my repositories and Share
 
  ──「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 」──
 </h2>
-<a href="https://telegram.me/ampud"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/pbenak"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
