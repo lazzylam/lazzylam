@@ -16,7 +16,7 @@
 ```csharp
 My Profile
 -------------------------------
-Name: Lampurge (Alfian).
+Name: Lamora.
 Who am I: High School Student 🏫.
 Gender: Male.
 Location: Jakarta, Indonesia.
@@ -24,7 +24,7 @@ Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
 Languages: HTML, Python, Go.
 Learning: Business
-Telegram: @mowdal.
+Telegram: @wlamora.
 ```
 <br>
      
@@ -122,4 +122,4 @@ My programming languages include Python, Go. Check out my repositories and Share
 
  ──「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 」──
 </h2>
-<a href="https://telegram.me/mowdal"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/wlamora"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
