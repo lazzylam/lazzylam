@@ -75,11 +75,11 @@ My programming languages include Python, Go. Check out my repositories and Share
 
 <h2 align = "center"> 📉 GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="40" height="40" /></h2>
 <div> 
-<a href="https://github.com/lazzylam"><img alt="Lampurge Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lazzylam&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
-<a href="https://github.com/lazzylam"><img alt="Lampurge Contribution" src="https://github-contributor-stats.vercel.app/api?username=lazzylam&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" width="49%"/></a>
-<a href="https://github.com/lazzylam"><img alt="Lampurge GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=lazzylam&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" width="49%"/></a>
-<a href="https://github.com/lazzylam"><img alt="Lampurge Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazzylam&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
-<a href="https://github.com/lazzylam"><img alt="Lampurge Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lazzylam&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
+<a href="https://github.com/lazzylam"><img alt="Lamora Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lazzylam&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
+<a href="https://github.com/lazzylam"><img alt="Lamora Contribution" src="https://github-contributor-stats.vercel.app/api?username=lazzylam&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" width="49%"/></a>
+<a href="https://github.com/lazzylam"><img alt="Lamora GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=lazzylam&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" width="49%"/></a>
+<a href="https://github.com/lazzylam"><img alt="Lamora Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazzylam&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
+<a href="https://github.com/lazzylam"><img alt="Lamora Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lazzylam&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </div>
 <br>
 
