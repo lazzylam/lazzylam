@@ -33,8 +33,7 @@ Telegram: @wlamora.
 </div>
 <div align = "center">
 <p align = "justify"><b>
-I am a self-taught developer from Indonesia who loves working with Python, Go, and HTML. A year ago, I learned Python,HTML,and Go. along with some reverse engineering to develop apps and Telegram bots. Nowadays, I focus on Computer Science, striving to do my best in every specialization area.
-My programming languages include Python, Go. Check out my repositories and Share your feedback ~ I’ll do my best to improve every day!
+👨🏻‍💻 Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. As a self-taught developer, web designer, open source cyber enthusiast, and professional kanger, I constantly push the boundaries of what's possible in the tech industry ~ I’ll do my best to improve every day!
 </b>
 <br>
 </p>
